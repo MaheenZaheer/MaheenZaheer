@@ -20,6 +20,18 @@
 
 ---
 
+## 💼 Experience
+
+**AI/ML Intern — DecodeLabs** *(Remote)*
+Built Python-based AI/ML mini-projects, including a tech stack recommender system, a conversational chatbot, and a data classification model.
+📂 [DecodeLabs-Internship](https://github.com/MaheenZaheer/DecodeLabs-Internship)
+
+**AI/ML Intern — DevSynt** *(Remote)*
+Built **SlotWise**, an AI-powered Discord booking concierge bot that automates appointment scheduling. The system used an **n8n** workflow with **Google Gemini 1.5 Flash** to generate responses grounded in live **Google Sheets** data (no hallucinated availability), plus audit logging for every interaction.
+📂 [Devsynt_Internship](https://github.com/MaheenZaheer/Devsynt_Internship)
+
+---
+
 ## 💡 Currently Exploring
 
 | Focus                  | What I'm Doing                                              |
@@ -73,7 +85,8 @@
 | **[Bank_Management_System](https://github.com/MaheenZaheer/Bank_Management_System)** | Java-based system for managing bank accounts and transactions | Java |
 | **[Pac_Man](https://github.com/MaheenZaheer/Pac_Man)** | Classic Pac-Man game implementation | Java |
 | **[n8n-data-pipelines](https://github.com/MaheenZaheer/n8n-data-pipelines)** | Collection of data pipelines built with n8n | n8n |
-| **[DecodeLabs-Internship](https://github.com/MaheenZaheer/DecodeLabs-Internship)** | Work completed during the DecodeLabs internship | Python |
+| **[Devsynt_Internship](https://github.com/MaheenZaheer/Devsynt_Internship)** | SlotWise — an AI Discord booking bot using n8n + Google Gemini, verified against live Google Sheets data | Python, n8n, Gemini, Discord |
+| **[DecodeLabs-Internship](https://github.com/MaheenZaheer/DecodeLabs-Internship)** | Tech stack recommender, chatbot, and data classification mini-projects | Python |
 
 ---
 
